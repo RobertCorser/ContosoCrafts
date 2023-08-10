@@ -5,7 +5,7 @@ using System.Text.Json;
 using ContosoCrafts.Website.Models;
 using Microsoft.AspNetCore.Hosting;
 
-namespace ContosoCrafts.WebSite.Services
+namespace ContosoCrafts.Website.Services
 {
     public class JsonFileProductService
     {
